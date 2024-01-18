@@ -1,0 +1,2 @@
+Sveiki, šis ir teksts.
+Teksts ir nepieciešams priekš programmēšanas pārbaudes darba 1. uzdevuma.
