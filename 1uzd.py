@@ -4,7 +4,7 @@ def lasa(txt):
             info = fails.read()
             print("Faila saturs: ")
             print(info)
-    except FileNotFoundError:
+    except FileNotFoundError: # Dažādu veidu error, ja failu nevar nolasīt
         print(f"Fails '{txt}' nav atrasts.")
     except Exception as e:
         print(f"Neizdevās nolasīt failu. Kļūda: {e}")
